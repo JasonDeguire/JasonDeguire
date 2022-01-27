@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JasonDeguire
+- 👀 I’m interested in Web development & UI/UX
+- 🌱 I’m currently learning HTML CSS / JAVASCRIPT
+- 📫 How to reach me 007jasondeguire@gmail.com
